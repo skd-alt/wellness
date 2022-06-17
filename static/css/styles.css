@@ -115,12 +115,12 @@ a {
 }
 
 .for-employers {
-  background-image: url("../images/interns.jpg");
+  /*  background-image: url("../images/interns.jpg"); */
   color: white;
 }
 
 .for-candidates {
-  background-image: url("../images/candidate.jpg");
+  /* background-image: url("../images/candidate.jpg"); */
   color: white;
 }
 

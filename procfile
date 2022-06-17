@@ -1,1 +1,1 @@
-web: gunicorn manage:app
+web : gunicorn zkart.wsgi:application --log-file -

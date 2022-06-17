@@ -1,1 +1,1 @@
-web: gunicorn wellness.wsgi --log-file -
+web: gunicorn kart.wsgi --log-file -
